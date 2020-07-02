@@ -1,0 +1,2 @@
+# SchoolCode
+School stuff
